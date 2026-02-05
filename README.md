@@ -1,1 +1,1 @@
-# Ind.-project
+Шахматы на python с библиотеками qt.
